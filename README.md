@@ -2,7 +2,7 @@
 
 The "Bollinger Bands Width Bot" is a Telegram Chatbot written as a technical analysis tool used to filter stock buying and selling recommendations based on potential price breakouts or breakdowns, for (almost) all stocks at once, on select exchanges (NYSE, NASDAQ & B3 in Brazil).
 
-It leveradges some of the code from the ([Bollinger Bands Width Stock Scanner](https://github.com/bdh777psu/bbw-stock-scanner)).
+It leveradges some of the code from the [Bollinger Bands Width Stock Scanner](https://github.com/bdh777psu/bbw-stock-scanner).
 
 Find out more about using Bollinger Bands Width alongside your trading strategies here:
 https://www.tradingview.com/support/solutions/43000501972-bollinger-bands-width-bbw/
